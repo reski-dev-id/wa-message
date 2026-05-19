@@ -114,16 +114,15 @@ feel free to contact me ...
 - [Github](https://github.com/reski-id)
 - Whatsapp <a href="https://wa.me/+6281261478432?text=Hello">Send WhatsApp Message</a>
 
-
-todo
-Swagger/OpenAPI
-Docker Compose
-Makefile
-Redis Pub/Sub
-structured logging
-graceful shutdown
-context timeout
-validation
-pagination
-healthcheck
-GitHub Actions
+## TODO
+- [ ] Swagger / OpenAPI documentation
+- [ ] Docker Compose setup
+- [ ] Makefile commands automation
+- [ ] Redis Streams integration
+- [ ] Structured logging
+- [ ] Graceful shutdown handling
+- [ ] Context timeout implementation
+- [ ] Request validation
+- [ ] Pagination support
+- [ ] Healthcheck endpoint
+- [ ] GitHub Actions CI pipeline
